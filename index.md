@@ -26,7 +26,6 @@ We in the area of Fort Collins are watched by numerous devices. Sometimes they l
 
 Flock has been initiating zero-cost projects with cities which supply the police drones using unsupervised AI to race to alleged crime scenes.
 
-- [://ground.news/article/nexar-dashcam-hack-reveals-private-videos-flock-partnership](//ground.news/article/nexar-dashcam-hack-reveals-private-videos-flock-partnership)
 - [://www.flocksafety.com/products/flock-dfr](//www.flocksafety.com/products/flock-dfr)
 
 In some cases, Flock technology seems distributed alongside Skydio's technology.
