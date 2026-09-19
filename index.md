@@ -62,4 +62,4 @@ What should escalation on out part look like?
 
 This is not only a Flock problem, not only a Fort Collins problem.
 
-I think, everywhere, should be Policed By Our Own.
+I think, everywhere, we should be Policed By Our Own.
