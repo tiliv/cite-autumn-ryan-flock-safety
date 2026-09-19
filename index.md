@@ -58,7 +58,7 @@ Their spying is about us.
 
 Meanwhile, they make you talk to simpleton bots and do not answer phones.
 
-What should escalation on out part look like?
+What should escalation on our part look like?
 
 This is not only a Flock problem, not only a Fort Collins problem.
 
